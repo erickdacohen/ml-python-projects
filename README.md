@@ -12,4 +12,4 @@ Below are a list of some of the projects and datasets:
 
 2. [Cereal](./cereal-dataset/) - Predicting cereal sugar content using regularized regression.
 
-3. []
+3. [Sneaker Images](./sneaker-image-dataset/) - Using CNNs for image classification and DCGANs for image generation using Keras and Pytorch respectively
